@@ -1,10 +1,12 @@
 <h1 align="center">Hi, im Pedro Cunha</h1>
 <h3 align="center">A Jr back-end developer from Brazil :)</h3>
+<hr>
+<p>
+  Currently studying by myself and in a technical school.<br>
+  Always searching for new opportunities and learnings.<br>
+</p>
 
-<h4>Currently studying by myself and in a technical school.</h4>
-<h4>Always searching for new opportunities and learnings.</h4>
-
-- 🔭 I’m currently working in a [simple game project](https://github.com/nevidomyyb/forca-game)
+- 🔭 I’m currently working in a [simple game project](https://github.com/nevidomyyb/batalha-naval)
 
 - 🌱 I’m currently learning **Python, MySQL, Django and Git**
 
