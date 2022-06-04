@@ -1,4 +1,5 @@
 <h1 align="center">Hi, im Pedro Cunha</h1>
+<hr>
 <h3 align="center">A Jr back-end developer from Brazil :)</h3>
 <hr>
 <p>
