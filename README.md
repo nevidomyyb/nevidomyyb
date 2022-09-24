@@ -6,10 +6,6 @@
   Always searching for new opportunities and learnings.<br>
 </p>
 
-- 🔭 I’m currently working in a [simple game project](https://github.com/nevidomyyb/batalha-naval)
-
-- 🌱 I’m currently learning **Python, MySQL, Django and Git**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
