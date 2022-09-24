@@ -2,7 +2,6 @@
 <h3 align="center">A Jr back-end developer from Brazil :)</h3>
 <br>
 <p>
-  Currently studying by myself and in a technical school.<br>
   Always searching for new opportunities and learnings.<br>
 </p>
 
