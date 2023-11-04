@@ -3,7 +3,6 @@
 
 - A junior backend developer from Brazil!
 - 👀 I’m interested in Web Development and Software Development
-- 🔭 I’m currently working on **CITSEC.**
 - 📖 Now I'm studying Java and always studying Python and Django
 - 💞️ I’m looking to collaborate on some projects and my own projects
 
