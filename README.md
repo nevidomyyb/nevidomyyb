@@ -1,10 +1,10 @@
 
 ## Hi, I'm Pedro Cunha
 
-- A junior backend developer from Brazil!
-- 👀 I’m interested in Web Development and Software Development
-- 📖 Now I'm studying Java and always studying Python and Django
-- 💞️ I’m looking to collaborate on some projects and my own projects
+- A junior data scientst and backend developer from Brazil!
+- 👀 I’m interested in Data Science and Software/Web Development.
+- 📖 Now I'm studying Machine Learning.
+- 💞️ I’m looking to collaborate on some projects and my own projects.
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nevidomyyb&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
